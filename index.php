@@ -1,11 +1,7 @@
 <?php
 
-echo "Hello World!";
+$namaLengkap = "Abid Faiz Saladin";
 
-echo "Abid Faiz";
-
-// echo 1000 * 5;
-
-// phpinfo();
+echo $namaLengkap;
 
 ?>
